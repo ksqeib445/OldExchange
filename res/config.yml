@@ -1,0 +1,80 @@
+convertor:
+  ==: org.bukkit.inventory.ItemStack
+  type: SLIME_BLOCK
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '&8[&c◎&8] &b兑换资源点'
+    lore:
+      - '&a>> {0}个物品可兑换 1 资源点(打开放入物品)'
+u1:
+  #  使用物品白名单
+  useWhiteList: false
+  #  禁止交易重命名的物品
+  disallowTradingNamedItems: false
+u2:
+  #  一个资源点需要多少物品
+  items_needed_for_one_resource_point: 3
+resource-point-item-names-that-cannot-be-traded: []
+#资源点兑换黑名单
+resource-point-trade-blacklist:
+  - WOOD_STEP
+  - WOOD_STEP:1
+  - WOOD_STEP:2
+  - WOOD_STEP:3
+  - WOOD_STEP:4
+  - STEP:1
+  - STEP:3
+  - STEP:7
+  - CARPET
+  - CARPET:1
+  - CARPET:2
+  - CARPET:3
+  - CARPET:4
+  - CARPET:5
+  - CARPET:6
+  - CARPET:7
+  - CARPET:8
+  - CARPET:9
+  - CARPET:10
+  - CARPET:11
+  - CARPET:12
+  - CARPET:13
+  - CARPET:14
+  - CARPET:15
+  - MELON
+  - INK_SACK
+  - BOWL
+  - COBBLE_WALL
+  - SNOW_BLOCK
+  - SNOW_BALL
+  - STICK
+  - THIN_GLASS
+  - STAINED_GLASS_PANE
+  - RAILS
+  - POWERED_RAIL
+  - DETECTOR_RAIL
+  - ACTIVATOR_RAIL
+  - ACTIVATOR_RAIL
+  - DETECTOR_RAIL
+  - RAILS
+#白名单物品（需要启用白名单模式）
+whitelist-items: []
+#特殊的物品所能兑换的资源点
+special-item-cases:
+  #稻草块
+  - HAY_BLOCK,30
+  #下界之星
+  - NETHER_STAR,9000
+  #燧石
+  - FLINT,6
+  #羊毛
+  - WOOL,6
+  #铁锭
+  - IRON_INGOT,15
+  #金锭
+  - GOLD_INGOT,30
+  #钻石
+  - DIAMOND,300
+  #绿宝石
+  - EMERALD,450

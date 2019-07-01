@@ -1,0 +1,29 @@
+#基础
+mhead:
+  - ''
+Guis_Nexus_RP_Trade:
+  - §7按§7“§eE§7”关闭背包确认兑换
+Guis_Nexus_RP_Trade_Insufficient_Itemcount:
+  - 您需要 %amount% 个物品才能使用这种贸易!
+Guis_Nexus_RP_Trade_Overflowing_Itemcount:
+  - '%amount% 个物品被退回'
+Guis_Nexus_RP_Trade_Success:
+  - §7您的王国获得了 §c§l%amount%§7 资源点!
+Guis_Nexus_RP_Trade_Success_Ally:
+  - §b§l%kingdom% §7已经获得了 §c§l%amount% §7资源点!谢谢您的捐赠!
+Guis_Nexus_RP_Trade_Success_Ally_Notif:
+  - §a§l%player% §7为王国已经捐赠了 §c§L%amount% 资源点!
+Command_Help_Tradable:
+  - 显示您可以兑换和无法兑换的物品
+Command_Tradable_Conversion_Ratio_Msg:
+  - '§a转化成: 1 资源点 %rpi% items'
+Command_Tradable_Disabled_Items_Title:
+  - §c=== §d§l禁止的功能 §a===
+Command_Tradable_Enabled_Items_Title:
+  - §a=== §d§l启动的功能 §a===
+Command_Tradable_ItemsUnit:
+  - 物品(s)
+Command_Tradable_Special_Case_Items_Title:
+  - §6=== §d§l特殊的功能 §a===
+Command_Tradable_Worth:
+  - 价值

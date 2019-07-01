@@ -1,0 +1,5 @@
+name: OldExchange
+main: fun.ksmc.kingdoms.extned.OldExchange
+version: 1.0
+author: ksqeib
+depend: [ksAPI]

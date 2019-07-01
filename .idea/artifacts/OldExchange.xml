@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OldExchange">
+    <output-path>$PROJECT_DIR$/../out/</output-path>
+    <root id="archive" name="OldExchange.jar">
+      <element id="module-output" name="kingdomsoldresourcepointexchange" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ksAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../out/ksAPI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../out/KingdomsPlus.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Paper-1.12.2-b1574.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/lombok.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../lib/Paper-1.12.2-b1574.jar!/" />
+    </SOURCES>
+  </library>
+</component>
